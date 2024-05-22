@@ -12,3 +12,7 @@ Error	MSB3577	Two output file names resolved to the same output path: "obj\Debug
 2. Open the file `Form1_partial.cs` with the WinForm Designer.
 3. The file `Form1_partial.resx` should have been generated.
 4. Try to compile the project.
+
+## Resources
+
+* [Linked GitHub issue](https://github.com/dotnet/winforms/issues/11411)
